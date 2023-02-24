@@ -13,3 +13,10 @@ A batch resize tool for batch resizing the image
 4. Begin to batch resize your images! Just enjoy it! :blush::blush:
 
 <img src='command.png' width="80%" height="80%">
+
+# Highlights
+- This is an out-of-the-box windows software.
+- It is specially designed for batch image resizing.
+- It supports scaling images in equal or arbitrary proportions.
+- It is embedded with the OpenCV built-in interpolation method.
+- It is very fast and easy to use!
