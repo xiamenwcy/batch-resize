@@ -8,8 +8,8 @@ A batch resize tool for batch resizing the image
 
 > batch-resize.exe -h
 
-<center>![](help.png)</center>
+<center>![](./help.png)</center>
 
 4. Begin to batch resize your images! Just enjoy it! :blush::blush:
 
-<center>![](command.png)</center>
+<center>![](./command.png)</center>
