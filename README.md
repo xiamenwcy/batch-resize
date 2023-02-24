@@ -8,8 +8,8 @@ A batch resize tool for batch resizing the image
 
 > batch-resize.exe -h
 
-<img src='help.png' width="1225px">
+<img src='help.png' width="80%" height="80%">
 
 4. Begin to batch resize your images! Just enjoy it! :blush::blush:
 
-<img src='command.png' width="1146px">
+<img src='command.png' width="80%" height="80%">
